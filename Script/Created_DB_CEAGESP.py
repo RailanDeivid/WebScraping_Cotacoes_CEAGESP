@@ -192,7 +192,6 @@ try:
         <p><strong><em>Att.</em></strong></p>
         <p><em>Raila Deivid</em></p>
         <p><em>Analista de Dados</em></p>
-        <img src="https://a.imagem.app/o8tU6G.png" alt="Assinatura" width="550" height="180">
         """
     else:
         corpo_email = f"""
