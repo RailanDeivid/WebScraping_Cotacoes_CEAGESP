@@ -11,6 +11,7 @@ import pandas as pd
 import sqlite3
 from datetime import datetime, timedelta
 
+#inicio
 try:
     
     # Função para ler a chave de criptografia de um arquivo
