@@ -44,7 +44,7 @@ try:
     url = 'https://ceagesp.gov.br/cotacoes'
 
     # Inicializa o driver do Chrome
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome() 
 
     # Acesse a página
     driver.get(url)
